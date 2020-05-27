@@ -1,5 +1,5 @@
 html {
-    background: url(../images/bg1.jpg) no-repeat center center fixed;
+    background: url(../images/back.jpg) no-repeat center center fixed;
     
 }
 
@@ -7,7 +7,7 @@ html {
 .prof-box {
     width:480px;
     height:510px;
-    background-color: rgba(64, 66, 77, 0.575);
+    background-color: #39459b;
     padding: 20px;
     color:white;
     margin:0 auto;
